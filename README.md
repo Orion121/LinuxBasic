@@ -33,7 +33,5 @@ chmod 444 secure.txt
 export MY_VAR="Hello, Linux!"
 echo $MY_VAR
 ```
-
----
 Author: Shantum Sharma
-```
+
