@@ -34,9 +34,6 @@ export MY_VAR="Hello, Linux!"
 echo $MY_VAR
 ```
 
-## Usage
-Clone this repo, run commands in a Linux terminal, and add your screenshots in `/screenshots`.
-
 ---
 Author: Shantum Sharma
 ```
