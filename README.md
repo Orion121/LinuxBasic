@@ -40,5 +40,3 @@ Clone this repo, run commands in a Linux terminal, and add your screenshots in `
 ---
 Author: Shantum Sharma
 ```
-
-Do you want me to also **add placeholder screenshot image links** so it looks more complete for GitHub?
